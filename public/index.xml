@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Добро пожаловать! on Виды рыб</title>
+    <link>https://example.org/</link>
+    <description>Recent content in Добро пожаловать! on Виды рыб</description>
+    <generator>Hugo</generator>
+    <language>en-ru</language>
+    <lastBuildDate>Sun, 14 Jan 2024 07:07:07 +0100</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://example.org/posts/my-first-post/</link>
+      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
+      <guid>https://example.org/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Щука</title>
+      <link>https://example.org/posts/shuka/</link>
+      <pubDate>Sun, 14 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/posts/shuka/</guid>
+      <description>&lt;h2 id=&#34;вид-щука&#34;&gt;Вид щука&lt;/h2&gt;&#xA;&lt;p&gt;Рыба семейства щуковых.&#xA;Распространена в пресных водах Евразии и Северной Америки. Живёт обычно в прибрежной зоне, в водных зарослях, в непроточных или слабопроточных водах. Может также встречаться и в опреснённых частях морей.&lt;/p&gt;&#xA;&lt;p&gt;Длина щуки может достигать 1,5 метров, масса — до 35 килограммов. Тело торпедовидное, голова большая, пасть широкая. Окраска изменчивая, зависит от окружения.&lt;/p&gt;&#xA;&lt;p&gt;Щука хорошо выдерживает кислую реакцию воды, может комфортно жить в водоёмах с pH 4,75. При снижении содержания кислорода до 3,0–2,0 мг/л наступает угнетение дыхания, поэтому в заморных водоёмах щука часто погибает.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
