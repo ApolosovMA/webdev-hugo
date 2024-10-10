@@ -1,4 +1,4 @@
 +++
 title = 'Добро пожаловать!'
-featured_image = 'fish.jpg'
+featured_image = 'titl2.jpg'
 +++

@@ -1,12 +1,10 @@
 
 +++
-title = 'My First Post'
-date = 2024-01-14T07:07:07+01:00
+title = 'Эвакуатор круглосуточно'
+date = 2024-01
 draft = false
-featured_image = 'https://vizpin.com/wp-content/uploads/blog-1000.jpg'
+featured_image = 'https://imgp24.ru/i/u_items/1485582488.jpg'
 +++
-## Introduction
+## 8 921 127 00 49
 
-This is **bold** text, and this is *emphasized* text.
-
-Visit the [Hugo](https://gohugo.io) website!
+Онлайн консультация [тык](8 921 127 00 49) 
