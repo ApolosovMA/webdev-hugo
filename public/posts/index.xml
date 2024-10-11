@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Эвакуатор Вологда</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Эвакуатор Вологда</description>
+    <generator>Hugo</generator>
+    <language>en-ru</language>
+    <lastBuildDate>Fri, 11 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;эвакуатор-круглосуточно&#34;&gt;Эвакуатор Круглосуточно&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;8 921 127 00 49&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
