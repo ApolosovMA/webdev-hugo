@@ -1,19 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Добро пожаловать on Эвакуатор Вологда</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content in Добро пожаловать on Эвакуатор Вологда</description>
+    <title>Добро пожаловать on Виды оснований в настольном теннисе</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content in Добро пожаловать on Виды оснований в настольном теннисе</description>
     <generator>Hugo</generator>
     <language>en-ru</language>
-    <lastBuildDate>Fri, 11 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Эвакуатор Круглосуточно</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;8-921-127-00-49&#34;&gt;8 921 127 00 49&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;tel:+79211270049&#34;&gt;ВЫЗВАТЬ ЭВАКУАТОР&lt;/a&gt;&lt;/p&gt;</description>
+      <title>AN (Anatomic)</title>
+      <link>//localhost:1313/posts/my-first-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;анатомическая-ручка&#34;&gt;Анатомическая ручка&lt;/h2&gt;&#xA;&lt;p&gt;Это тип ручки, который сочетает в себе преимущества ручек FL и ST. Она имеет удобную анатомическую форму и обеспечивает удобное удержание ракетки в руке. Благодаря своей форме, она обеспечивает более комфортный и естественный «хват» ракетки во время игры. Это снижает риск получения травм и повышает производительность игрока.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>FL (Flared)</title>
+      <link>//localhost:1313/posts/2post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/2post/</guid>
+      <description>&lt;h2 id=&#34;ласточкин-хвост&#34;&gt;«Ласточкин хвост»&lt;/h2&gt;&#xA;&lt;p&gt;Наиболее популярный тип ручки среди игроков настольного тенниса. Она имеет форму конуса и обеспечивает удобное удержание ракетки в руке. Благодаря своей форме, этот тип ручки обеспечивает самое надежный контроль ракетки и позволяет игроку быстро менять позицию руки во время игры.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ST (Straight)</title>
+      <link>//localhost:1313/posts/3post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/3post/</guid>
+      <description>&lt;h2 id=&#34;прямая-ручка&#34;&gt;Прямая ручка&lt;/h2&gt;&#xA;&lt;p&gt;Классический тип ручки для ракетки в настольном теннисе. Она имеет форму прямоугольника и обеспечивает отличную устойчивость ракетки в руке. Благодаря своей форме, она отлична подходит игрокам, которые любят вращать ракетку. Этот тип ручки обеспечивает максимальную точность и контроль над мячом.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
